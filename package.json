@@ -1,6 +1,6 @@
 {
   "name": "@jwl/eslint-config-jwl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "eslint-config-jwl.js",
   "keywords": [],
@@ -9,7 +9,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "devDependencies": {
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.32.0",
     "@typescript-eslint/parser": "^5.32.0",
     "eslint": "^8.21.0",
